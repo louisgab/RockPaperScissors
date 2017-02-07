@@ -1,3 +1,7 @@
+/*
+ * RockPaperScissors v1.0 by Louis-Gabriel
+ * https://github.com/louisgab/RockPaperScissors.git
+ */
 var humanScore = computerScore = 0,
     choices = ["pierre", "feuille", "ciseaux"],
     symbols = ["✊", "✋", "✌"];
